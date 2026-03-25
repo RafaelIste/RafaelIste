@@ -1,15 +1,3 @@
-Aucun<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00c6ff&secondaryColor=0072ff&height=300&section=header&text=RafaelIste&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Développeur%20Creative%20•%20Architecte%20Solutions&descSize=25&descAlignY=60" alt="RafaelIste Header" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RafaelIste&theme=dracula&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
-  </a>
-</p>
-
-<br />
-
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="60%" valign="top">
@@ -30,9 +18,8 @@ Aucun<p align="center">
 
 <br />
 
----
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="35" height="35" /> Mon Arsenal Technologique</h2>
+<h2>Mon Arsenal Technologique</h2>
 
 <div align="center">
   <h3>• Core Stack •</h3>
@@ -51,9 +38,7 @@ Aucun<p align="center">
 
 <br />
 
----
-
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" height="35" /> Mes plus gros projets</h2>
+<h2>Mes plus gros projets</h2>
 
 <p align="center">
   <a href="https://github.com/RafaelIste/rvpkg">
@@ -63,9 +48,7 @@ Aucun<p align="center">
 
 <br />
 
----
-
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" height="35" /> Mes Métriques de Code</h2>
+<h2>Mes Métriques de Code</h2>
 
 
 <!-- SNAKE CONTRIBUTION GRID (fonctionne avec la branche output) -->
@@ -102,7 +85,7 @@ Aucun<p align="center">
 
 
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" height="35" /> Parlons de ton Projet</h2>
+<h2>Parlons de ton Projet</h2>
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
