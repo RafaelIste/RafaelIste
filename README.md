@@ -87,9 +87,10 @@ Aucun<p align="center">
 <br />
 
 
+
 ## Discord
-<a href="https://discord.com/users/721746046543331449"  align="left">
-    <img src="https://lanyard.cnrad.dev/api/721746046543331449?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=In%20the%20sky,%20there%20is%20an%20angel%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
+<a href="https://discord.com/users/1457648042814472334"  align="left">
+  <img src="https://lanyard.cnrad.dev/api/1457648042814472334?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=In%20the%20sky,%20there%20is%20an%20angel%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
 </a>
 
 ## Mes stats GitHub
@@ -100,10 +101,7 @@ Aucun<p align="center">
   </a>
 </p>
 
-## Discord
-<a href="https://discord.com/users/1457648042814472334"  align="left">
-    <img src="https://lanyard.cnrad.dev/api/1457648042814472334?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=In%20the%20sky,%20there%20is%20an%20angel%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
-</a>
+
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" height="35" /> Parlons de ton Projet</h2>
 
