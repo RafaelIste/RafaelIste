@@ -22,7 +22,7 @@
 <br>
 
 <p>
-  🎸 <b>Hors du terminal...</b> Quand je ne suis pas en train de compiler un nouveau projet, je passe mon temps à jouer du <b>piano</b> ou de la <b>guitare</b>, ou à perfectionner mon aim sur <b>osu!</b> et mes builds sur <b>Genshin Impact</b>. Ces passions nourrissent ma créativité et ma persévérance, des qualités que je réinjecte chaque jour dans mon code.
+  <b>Hors du terminal...</b> Quand je ne suis pas en train de compiler un nouveau projet, je passe mon temps à jouer du <b>piano</b> ou de la <b>guitare</b>, ou à perfectionner mon aim sur <b>osu!</b> et mes builds sur <b>Genshin Impact</b>. Ces passions nourrissent ma créativité et ma persévérance, des qualités que je réinjecte chaque jour dans mon code.
 </p>
 
 <br />
@@ -31,23 +31,62 @@
 <h2>Mon Arsenal Technologique</h2>
 
 <p>
-  Voici les technologies et outils que j’utilise au quotidien pour concevoir, développer et déployer des applications robustes et modernes. J’accorde une grande importance à la polyvalence et à la maîtrise de chaque maillon de la chaîne de production logicielle.
+  En tant qu'étudiant à l'<b>ESIEE Paris</b> et créateur de langage, je privilégie la compréhension profonde des systèmes. Voici les outils que je maîtrise, ceux que je déploie à la demande, et ceux que je dompte actuellement.
 </p>
 
 <div align="center">
-  <h3>• Core Stack •</h3>
+  <h3>• Langages de Prédilection •</h3>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  
   <br />
-  <h3>• Tools & Ops •</h3>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+  <h3>• Backend & Infrastructure •</h3>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" />
+
+  <br />
+
+  <h3>• Environnement & Tools •</h3>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+
+  <h3>• My Own Creation •</h3>
+  <img src="https://img.shields.io/badge/RVPKG-Language-FF4B4B?style=for-the-badge&logo=codeforces&logoColor=white" />
+
 </div>
+
+<br />
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 À la demande (Bases solides)</h3>
+      <ul>
+        <li><b>Frontend :</b> Tailwind CSS, Bootstrap, Electron.</li>
+        <li><b>Web :</b> PHP, Vercel, GitHub Actions.</li>
+        <li><b>Scientifique :</b> MATLAB.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 En cours d'exploration</h3>
+      <ul>
+        <li><b>DevOps :</b> Docker (Conteneurisation).</li>
+        <li><b>Système :</b> Approfondissement du C & Architecture.</li>
+        <li><b>Cloud :</b> Firebase & déploiement scalable.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -82,7 +121,7 @@
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelIste&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelIste&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br />
