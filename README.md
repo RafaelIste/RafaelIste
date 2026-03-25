@@ -55,7 +55,7 @@ Aucun<p align="center">
 
 ---
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" height="35" /> Projets à la Une</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" height="35" /> Mes plus gros projets</h2>
 
 <p align="center">
   <a href="https://github.com/RafaelIste/rvpkg">
@@ -69,12 +69,13 @@ Aucun<p align="center">
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" height="35" /> Mes Métriques de Code</h2>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/RafaelIste/RafaelIste/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/RafaelIste/RafaelIste/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RafaelIste/RafaelIste/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+<!-- SNAKE CONTRIBUTION GRID (fonctionne avec la branche output) -->
+![github contribution grid snake animation](https://github.com/RafaelIste/RafaelIste/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation dark](https://github.com/RafaelIste/RafaelIste/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<div align="center">
+  <a href="https://discord.com/users/1457648042814472334"><img src="https://lanyard.cnrad.dev/api/1457648042814472334?theme=dark&showDisplayName=true" /></a>
+</div>
 
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelIste&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
@@ -88,10 +89,10 @@ Aucun<p align="center">
 
 
 
-## Discord
-<a href="https://discord.com/users/1457648042814472334"  align="left">
-  <img src="https://lanyard.cnrad.dev/api/1457648042814472334?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=In%20the%20sky,%20there%20is%20an%20angel%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
-</a>
+
+# Discord
+<a href="https://discord.com/users/1457648042814472334"><img src="https://lanyard.cnrad.dev/api/1457648042814472334?bg=1A1C1F&borderRadius=10px&theme=dark&hideActivity=true&showDisplayName=true" /></a>
+
 
 ## Mes stats GitHub
 
