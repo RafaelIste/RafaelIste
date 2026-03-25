@@ -48,15 +48,13 @@
 
 <br />
 
+<h2>Commits</h2>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<br />
+
 <h2>Mes Métriques de Code</h2>
-
-
-<!-- SNAKE CONTRIBUTION GRID (fonctionne avec la branche output) -->
-![github contribution grid snake animation](https://github.com/RafaelIste/RafaelIste/blob/output/github-contribution-grid-snake.svg)
-![github contribution grid snake animation dark](https://github.com/RafaelIste/RafaelIste/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-<div align="center">
-  <a href="https://discord.com/users/1457648042814472334"><img src="https://lanyard.cnrad.dev/api/1457648042814472334?theme=dark&showDisplayName=true" /></a>
-</div>
 
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelIste&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
@@ -71,8 +69,10 @@
 
 
 
-# Discord
-<a href="https://discord.com/users/1457648042814472334"><img src="https://lanyard.cnrad.dev/api/1457648042814472334?bg=1A1C1F&borderRadius=10px&theme=dark&hideActivity=true&showDisplayName=true" /></a>
+# Mon Discord
+<div align="center">
+  <a href="https://discord.com/users/1485936468928233514"><img src="https://lanyard.cnrad.dev/api/1485936468928233514?theme=dark&showDisplayName=true" /></a>
+</div>
 
 
 ## Mes stats GitHub
