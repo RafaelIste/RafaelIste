@@ -1,0 +1,33 @@
+# Workflow GitHub Actions pour générer l'animation Snake
+# Plus d'infos : https://github.com/Platane/snk
+
+name: Générer Snake Animation
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout du repo
+        uses: actions/checkout@v4
+
+      - name: Générer le snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: RafaelIste
+          outputs: |
+            ./output/github-contribution-grid-snake.svg
+
+      - name: Commit & push le résultat
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add ./output/github-contribution-grid-snake.svg
+          git commit -m "Génère l'animation Snake" || echo "Pas de changement à commit"
+          git push
