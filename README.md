@@ -24,9 +24,7 @@ Aucun<p align="center">
         Au-delà de la technique, je suis un fervent défenseur de la collaboration en open-source et du partage de connaissances. Je crois fermement que les meilleures solutions émergent de la diversité des perspectives.
       </p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZqZzR4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Tech Animation" style="border-radius: 15px;" />
-    </td>
+
   </tr>
 </table>
 
@@ -129,4 +127,10 @@ Aucun<p align="center">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RafaelIste&color=00c6ff&style=flat-square&label=Explorateurs+du+profil" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00c6ff&center=true&vCenter=true&width=435&lines=Merci+de+ta+visite+!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
