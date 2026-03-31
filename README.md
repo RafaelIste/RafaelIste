@@ -150,8 +150,8 @@
 <p>
   Voici un aperçu de mes statistiques GitHub, qui mettent en avant mon engagement, la diversité de mes contributions et ma passion pour le développement.
 </p>
-<p>
-  <a href="/" align="center">
+<p align="center">
+  <a href="/" align="left">
   <img src="./profile/stats.svg"/>
   </a>
 </p>
