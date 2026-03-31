@@ -142,6 +142,10 @@
 </p>
 <div align="center">
   <a href="https://discord.com/users/1485936468928233514"><img src="https://lanyard.cnrad.dev/api/1485936468928233514?theme=dark&showDisplayName=true" /></a>
+<div align="center">
+<a href="https://osu.ppy.sh/users/AutumnVN"><img src="https://osu-sig.vercel.app/card?user=RafaelIste&mode=std&lang=en&mini=true" align="right"></a>
+
+
 </div>
 
 <br />
