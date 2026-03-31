@@ -110,7 +110,7 @@
   L’animation ci-dessous représente l’évolution de mes contributions sur GitHub. Elle met en avant la régularité et la passion que j’investis dans mes projets open-source.
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/rafaeliste/rafaeliste/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/rafaeliste/rafaeliste/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <br />
 
@@ -152,7 +152,7 @@
 </p>
 <p>
   <a href="/"  align="center">
-  <img width="auto" src="./profile/stats.svg"/>
+  <img src="./profile/stats.svg"/>
   </a>
 </p>
 
