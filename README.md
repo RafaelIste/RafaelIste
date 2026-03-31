@@ -130,9 +130,7 @@
 <p>
   Ce graphique met en lumière mon activité sur GitHub au fil du temps. Il illustre les périodes d’intense développement, les contributions régulières et l’évolution de mes projets.
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelIste&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelIste&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
 <br />
 
