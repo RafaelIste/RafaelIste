@@ -152,7 +152,7 @@
 </p>
 <p align="center">
   <a href="/"  align="left">
-  <img width="auto" src="https://github-readme-stats.vercel.app/api?username=rafaeliste&theme=dracula&show_icons=true"/>
+  ![Stats](./profile/stats.svg)
   </a>
 </p>
 
