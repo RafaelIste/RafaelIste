@@ -98,7 +98,7 @@
 
 <p align="center">
   <a href="https://github.com/RafaelIste/rvpkg">
-    <img width="auto" src="./profile/stats.svg" alt="RVPKG"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelIste&repo=rvpkg&theme=tokyonight&show_owner=true" alt="RVPKG"/>
   </a>
 </p>
 

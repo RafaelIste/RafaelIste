@@ -25,14 +25,6 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate repo rvpkg card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: repo-rvpkg
-          options: username=${{ github.repository_owner }}&repo=rvpkg&theme=tokyonight&show_owner=true
-          path: profile/repo_rvpkg.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Commit cards
         run: |
           git config user.name "github-actions"
